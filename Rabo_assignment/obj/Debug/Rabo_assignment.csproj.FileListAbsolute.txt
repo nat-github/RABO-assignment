@@ -1,0 +1,7 @@
+C:\Users\D-GC91PU\source\Rabo_assignment\Rabo_assignment\Rabo_assignment\bin\Debug\Rabo_assignment.exe.config
+C:\Users\D-GC91PU\source\Rabo_assignment\Rabo_assignment\Rabo_assignment\bin\Debug\Rabo_assignment.exe
+C:\Users\D-GC91PU\source\Rabo_assignment\Rabo_assignment\Rabo_assignment\bin\Debug\Rabo_assignment.pdb
+C:\Users\D-GC91PU\source\Rabo_assignment\Rabo_assignment\Rabo_assignment\obj\Debug\Rabo_assignment.csprojResolveAssemblyReference.cache
+C:\Users\D-GC91PU\source\Rabo_assignment\Rabo_assignment\Rabo_assignment\obj\Debug\Rabo_assignment.csproj.CoreCompileInputs.cache
+C:\Users\D-GC91PU\source\Rabo_assignment\Rabo_assignment\Rabo_assignment\obj\Debug\Rabo_assignment.exe
+C:\Users\D-GC91PU\source\Rabo_assignment\Rabo_assignment\Rabo_assignment\obj\Debug\Rabo_assignment.pdb
